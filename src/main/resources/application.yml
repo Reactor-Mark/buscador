@@ -1,0 +1,15 @@
+server:
+  port: ${PORT:8082}
+
+spring:
+  application:
+    name: buscador
+  main:
+    allow-bean-definition-overriding: true
+  elasticsearch:
+    uris: http://elasticsearch-production-76d4.up.railway.app:9200
+
+eureka:
+  client:
+    service-url:
+      defaultZone: eureka-server-production-6564.up.railway.app/eureka/

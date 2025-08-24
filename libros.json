@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "To Kill a Mockingbird",
+    "autor": "Harper Lee",
+    "tecnica": "Fiction, Classic",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "tecnica": "Dystopian, Political Fiction",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "Pride and Prejudice",
+    "autor": "Jane Austen",
+    "tecnica": "Romance, Classic",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "The Great Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "tecnica": "Classic, Fiction",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "The Catcher in the Rye",
+    "autor": "J.D. Salinger",
+    "tecnica": "Fiction, Coming-of-Age",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "Moby-Dick",
+    "autor": "Herman Melville",
+    "tecnica": "Adventure, Classic",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "War and Peace",
+    "autor": "Leo Tolstoy",
+    "tecnica": "Historical Fiction",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "Crime and Punishment",
+    "autor": "Fyodor Dostoevsky",
+    "tecnica": "Psychological Fiction",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "The Brothers Karamazov",
+    "autor": "Fyodor Dostoevsky",
+    "tecnica": "Philosophical Fiction",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "tecnica": "Romance, Gothic",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "Wuthering Heights",
+    "autor": "Emily Brontë",
+    "tecnica": "Gothic, Tragedy",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "Brave New World",
+    "autor": "Aldous Huxley",
+    "tecnica": "Science Fiction, Dystopian",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "The Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "tecnica": "Fantasy, Adventure",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "tecnica": "Dystopian, Science Fiction",
+    "tipo": "Libro"
+  },
+  {
+    "titulo": "The Picture of Dorian Gray",
+    "autor": "Oscar Wilde",
+    "tecnica": "Philosophical Fiction, Gothic",
+    "tipo": "Libro"
+  }
+]
