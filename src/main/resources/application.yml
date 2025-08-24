@@ -6,10 +6,10 @@ spring:
     name: buscador
   main:
     allow-bean-definition-overriding: true
-  elasticsearch:
-    uris: http://elasticsearch-production-76d4.up.railway.app:9200
-
+  data:
+    elasticsearch:
+      uris: https://elasticsearch-production-76d4.up.railway.app:9200
 eureka:
   client:
     service-url:
-      defaultZone: http://eureka-server-production-6564.up.railway.app/eureka/
+      defaultZone: https://eureka-server-production-6564.up.railway.app/eureka/
