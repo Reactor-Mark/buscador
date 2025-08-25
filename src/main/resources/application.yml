@@ -6,9 +6,9 @@ spring:
     name: buscador
   main:
     allow-bean-definition-overriding: true
-  data:
-    elasticsearch:
-      uris: https://elasticsearch-production-76d4.up.railway.app:9200
+  elasticsearch:
+    uris: https://elasticsearch-production-76d4.up.railway.app
+
 eureka:
   client:
     service-url:
